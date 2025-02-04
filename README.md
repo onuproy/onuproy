@@ -7,7 +7,7 @@ I'm a passionate software developer with a love for creating innovative solution
 - 🔭 Currently working on various open-source projects.
 - 🌱 Always learning and exploring new technologies.
 - 💬 Ask me about web development, Python, JavaScript, and open-source contributions.
-- 📫 How to reach me: [onuproy@example.com](mailto:onuproy@example.com)
+- 📫 How to reach me: [anupme01@gmail.com](mailto:anupme01@gmail.com)
 - ⚡ Fun fact: I enjoy hiking and photography in my free time.
 
 ## 🛠️ Technologies & Tools
@@ -44,9 +44,9 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 📚 Projects
 
-- **[Project 1](https://github.com/onuproy/project1):** Brief description of Project 1.
-- **[Project 2](https://github.com/onuproy/project2):** Brief description of Project 2.
-- **[Project 3](https://github.com/onuproy/project3):** Brief description of Project 3.
+- **[Project 1](https://hbd.lu/):** Brief description of Project 1.
+- **[Project 2](https://kiddyevent.lu/):** Brief description of Project 2.
+- **[Project 3](https://maxkremer.lu/):** Brief description of Project 3.
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
